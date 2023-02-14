@@ -19,4 +19,6 @@ In this project I have made very simple 4 buttons which do a toast message, two 
 
 Toast.makeText(applicationContext,"Uploading...",Toast.LENGTH_SHORT).show()
 
+This Fully develop in Kotlin Language......
+
 
