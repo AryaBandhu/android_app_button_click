@@ -1,7 +1,7 @@
 
 # Android App Button Click
 
-In this project I have made very simple 4 buttons which do a toast message, two buttons are download and upload which do only simple show downloading and uploading message and two buttons change theme with simple toast message, this simple From app project i have learned lot of things and further it will help me to learn more things i made this project for 30 days coding challenge.
+In this project I have made very simple 4 buttons which do a toast message, two buttons are download and upload which do only simple show downloading and uploading message and two buttons change theme with simple toast message, this simple From app project i have learned lot of things and further it will help me to learn more things i made this project for 30 days coding challenge
 
 
 
