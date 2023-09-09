@@ -7,7 +7,7 @@ In this project I have made very simple 4 buttons which do a toast message, two 
 
 ## Authors
 
-- [AryaBandhu](https://github.com/AryaBandhu)
+-- [AryaBandhu](https://github.com/AryaBandhu)
 
 
 ## Screenshots
